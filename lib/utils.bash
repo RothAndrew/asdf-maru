@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for maru.
-GH_REPO="https://github.com/rothandrew/asdf-maru"
+GH_REPO="https://github.com/defenseunicorns/maru-runner"
 TOOL_NAME="maru"
 TOOL_TEST="maru version"
 
